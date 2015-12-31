@@ -1,0 +1,96 @@
+body, ul, dl, dd, dt, ol, li, p, h1, h2, h3, h4, h5, h6, textarea, form, select, fieldset, table, td, div, input {font-size: 100%; cursor: pointer; margin:0;padding:0;-webkit-text-size-adjust: none; font-family: 'Microsoft YaHei'; text-shadow: none;font-weight: normal;} a { text-decoration: none;} img {vertical-align: middle;} ul, dl, dd, dt, ol, li {list-style:none;}
+.main {margin: 0 auto; max-width:800px;}
+h1{color: #e82953; font-weight: bold; text-align: center;}
+h2{text-align: center; font-size:30px;}
+h3{color: #343434; font-size: 26px;}
+h4{color:#343434; font-weight: bold; }
+h5{color: #343434; font-size: 24px; text-align: center;}
+
+.c_pink {color:#e82953}
+.c_green {color:#00ba04;}
+.c_green_big {font-size: 20px;}
+.border5px {background:#e7e7e7;  border-radius: 10px; display: block; padding: 15px;}
+.spantwo {margin-left:20px;}
+.through {text-decoration: line-through;}
+
+#header {background:#f7f5f6; text-align: center;  padding: 10px 0;}
+#header .back {float: left; margin: 0 0 0 10px;}
+#header .back img { width: 20px;}
+#header .title {color:#ff588d; font-size:36px;}
+#header .share {}
+
+.banner {}
+.banner h1 {font-size: 45px; margin: 20px auto; width: 80%;}
+.banner h4 {font-size: 28px; text-align: right; margin: 0 auto;   width:70%;}
+.banner_img {}
+.banner_img img {width:100%;}
+.banner p { color: #5e5e5e; font-size: 24px; font-style: italic; line-height: 40px; margin: 30px 15px;}
+.banner p span {color:#000; display: block;}
+.banner p i {font-size:40px; color:#454545;  vertical-align: middle;  font-family: arial;}
+
+.ztmain {color: #5b5b5b; font-size: 24px; margin:0 10px 25px;}
+.ztmain .zttit {border-bottom: 2px solid #ff588d; margin-bottom: 15px; padding-bottom: 12px; overflow: hidden; display: inline-block;  width: 100%;}
+.ztmain .zttit em {background:#e82953; font-size:32px; color:#fff; padding: 5px 10px; font-style: normal; margin-right:10px; display: inline-block;}
+.ztmain .zttit span {font-size:26px; color:#ff588d; margin-right: 10px;}
+.ztmain .ztmain_hm {}
+.ztmain .ztmain_hm img {width: 100%;}
+.ztmain table {margin: 10px; letter-spacing: 2px;}
+.ztmain tr td:first-child {width: 120px;}
+.ztmain td {vertical-align: top;}
+.ztmain ol {}
+.ztmain .ztdiv1 {display: block; margin-bottom: 10px;  padding: 0 15px; overflow: hidden;}
+.ztmain .ztli { margin: 0 25px; color: #646464; font-size: 24px;}
+.ztmain .ztli li {list-style:inside}
+.ztmain .ztli span {display: inline;}
+.ztmain .ztli em {color: #e82953; display: block; font-family: arial; font-size: 36px; letter-spacing: 3px; margin: 10px 0 10px 20px;}
+.ztmain .ztli em span {color: #e82953;}
+.ztmain .margin10 {  margin: 20px; overflow: hidden;}
+.ztmain .margin10 i { float: left; font-style: normal; margin-right:10px;}
+.ztmain .margin10 span {float: left; width: 86%;}
+.ztmain.ztdco {font-size:22px; color:#343434;}
+.ztmain.ztdco p {margin: 10px;}
+.ztdcoh5 {margin: 20px 0;}
+
+.ztsub {}
+.ztsub span {}
+.ztsub input,.ztsub select { border: 1px solid #ccc; border-radius: 5px;  margin: 0 auto 15px; overflow: hidden; padding: 10px; width: 96%;}
+.ztsub select  {width: 100%;}
+.ztsub .ztsubpic {border: 1px solid #cccccc; border-radius: 5px; margin: 15px 0 20px;}
+.ztsub .ztsubpic span {border-bottom: 1px solid #ccc; display: block;  padding: 10px 0px;}
+.ztsub .ztsubpic span:last-child {border:none;}
+.ztsub .ztsubpic em {font-style: normal; margin-left: 10px;}
+.ztsub .ztsubpic i {float: right; font-style: normal; margin-right: 10px;}
+.ztsubinput {}
+
+.ztsubmit {bottom: 0; left: 0; margin-bottom: 10px; position: fixed; width: 100%;}
+.ztsubmit span { background:rgba(255,151,29,0.8); border-radius: 5px; color: #fff; font-size: 34px; margin: 0 auto; padding: 15px 0; text-align: center; width: 96%;  display: block; max-width: 800px;}
+.ztsubmit input {background:none; border:none; color: #fff;margin: 0; padding: 0;}
+
+@media screen and (max-width: 480px) {
+	h2 {font-size: 24px;}
+	h3 {font-size:20px;}
+	h5 { font-size: 17px;}
+	#header .title {font-size: 24px;}
+	.banner h1 {font-size: 28px;}
+	.banner h4 {font-size: 20px;}
+	.banner p {font-size: 17px; line-height: 27px;  margin: 15px;}
+	.ztmain,.ztmain .ztli,.ztmain .ztli {font-size: 16px !important;}
+	.ztmain .zttit em {padding: 3px 7px; font-size: 20px;}
+	.ztmain .zttit span {font-size: 17px;}
+	.ztmain tr td:first-child {width: 85px;}
+	.ztmain .zttit {margin-bottom: 5px;}
+	.ztmain.ztdco p {margin: 5px;}
+	.ztmain {margin:0 10px 10px;}
+	.ztsub input{width: 94%;}
+	.ztmain .ztli {margin: 0 15px;}
+	.ztmain .ztli em {font-size:30px;}
+	.ztmain .ztdiv1 {padding: 0 5px;}	
+	.ztsubmit span {padding: 8px 0; font-size: 18px;}
+	.ztmain .margin10 {margin: 20px 10px;}
+	.ztmain .margin10 span {float: left;width: 80%;}
+	#header .back img { width: 14px; margin-top: 5px;}
+}
+
+@media screen and (max-width: 320px) {
+	.banner h1 {font-size: 24px; width: 90%;}
+}

@@ -1,0 +1,46 @@
+<div class="manage_center_left new_manage_center_left">
+    <ul>
+        <li <?php  echo $this->uri->segment(2) == ''?'class="on3"':''; ?>><a href="<?php echo site_url('manage') ?>" class="item03">首页</a></li>
+        <?php if($this->privilege->judge('diary')): ?><li <?php echo $this->uri->segment(2) == 'diary'?'class="on8"':''; ?>><a href="<?php echo site_url('manage/diary') ?>" class="item08">美人记管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('index_hot_item')): ?><li <?php echo $this->uri->segment(2) == 'index_hot_item'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/index_hot_item') ?>" class="item09">首页热门项目</a></li><?php endif ?>
+        <?php if($this->privilege->judge('event')): ?>  <li <?php  echo $this->uri->segment(2) == 'roudusu'?'class="on3"':''; ?>><a href="<?php echo site_url('manage/event') ?>" class="item12">常规活动</a></li><?php endif ?>
+        <?php if($this->privilege->judge('community')): ?> <li <?php echo $this->uri->segment(2) == 'community'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/community') ?>" class="item12">社区活动</a></li><?php endif ?>
+        <?php if($this->privilege->judge('coupon')): ?> <li <?php echo $this->uri->segment(2) == 'coupon_card'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/coupon_card') ?>" class="item12">优惠券</a></li><?php endif ?>
+        <?php if($this->privilege->judge('meilibao')): ?>  <li <?php  echo $this->uri->segment(2) == 'meilibao'?'class="on3"':''; ?>><a href="<?php echo site_url('manage/meilibao') ?>" class="item03">美丽保</a></li><?php endif ?>
+        <?php if($this->privilege->judge('tehui')): ?>  <li <?php  echo $this->uri->segment(2) == 'tehui'?'class="on3"':''; ?>><a href="<?php echo site_url('manage/tehui') ?>" class="item12">特惠</a></li><?php endif ?>     
+         <?php if($this->privilege->judge('tehuibanner')): ?>  <li <?php  echo $this->uri->segment(2) == 'tehuibanner'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/tehuibanner') ?>" class="item09">banner管理</a></li><?php endif ?>       
+        <?php if($this->privilege->judge('product')): ?>  <li <?php  echo $this->uri->segment(2) == 'product'?'class="on3"':''; ?>><a href="<?php echo site_url('manage/product_review') ?>" class="item12">产品审核</a></li><?php endif ?>
+        <?php if($this->privilege->judge('flashSale')): ?>  <li <?php  echo $this->uri->segment(2) == 'flashSale'?'class="on3"':''; ?>><a href="<?php echo site_url('manage/flashSale') ?>" class="item12">闪购</a></li><?php endif ?>
+        <?php if($this->privilege->judge('home')): ?>  <li <?php  echo $this->uri->segment(2) == 'home'?'class="on3"':''; ?>><a href="<?php echo site_url('manage/home') ?>" class="item03">客户记录</a></li><?php endif ?>
+        <?php if($this->privilege->judge('topic')): ?> <li <?php echo $this->uri->segment(2) == 'topic'?'class="on4"':''; ?>><a href="<?php echo site_url('manage/topic') ?>" class="item04">话题管理</a></li><?php endif ?>
+		<?php if($this->privilege->judge('questions')): ?><li <?php echo $this->uri->segment(2) == 'questions'?'class="on4"':''; ?>><a href="<?php echo site_url('manage/questions') ?>" class="item04">咨询管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('tuiguang')): ?><li <?php echo $this->uri->segment(2) == 'tuiguang'?'class="on4"':''; ?>><a href="<?php echo site_url('manage/tuiguang') ?>" class="item04">推广管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('tuijian')): ?><li <?php echo $this->uri->segment(2) == 'tuijian'?'class="on7"':''; ?>><a href="<?php echo site_url('manage/tuijian') ?>" class="item07">推荐管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('yishi')): ?><li <?php echo $this->uri->segment(2) == 'yishi'?'class="on8"':''; ?>><a href="<?php echo site_url('manage/yishi') ?>" class="item08">专家</a></li><?php endif ?>
+        <?php if($this->privilege->judge('magic')): ?><li <?php echo $this->uri->segment(2) == 'magic'?'class="on8"':''; ?>><a href="<?php echo site_url('manage/magic') ?>" class="item08">魔镜管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('yiyuan')): ?> <li <?php echo $this->uri->segment(2) == 'yiyuan'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/yiyuan') ?>" class="item09">机构</a></li><?php endif ?>
+        <?php if($this->privilege->judge('users')): ?> <li <?php echo $this->uri->segment(2) == 'users'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/users') ?>" class="item09">用户</a></li><?php endif ?>
+		<?php if($this->privilege->judge('logtrack')): ?> <li <?php echo $this->uri->segment(2) == 'logtrack'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/logtrack') ?>" class="item09">登入日志</a></li><?php endif ?>
+        <?php if($this->privilege->judge('tongji')): ?><li <?php echo $this->uri->segment(2) == 'tongji'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/tongji') ?>" class="item09">统计</a></li><?php endif ?>
+        <?php if($this->privilege->judge('pages')): ?><li <?php echo $this->uri->segment(2) == 'pages'?'class="on9"':''; ?>><a href="<?php echo site_url('manage/pages') ?>" class="item09">页面</a></li><?php endif ?>
+        <?php if($this->privilege->judge('yinjian')): ?><li <?php echo $this->uri->segment(2) == 'yinjian'?'class="on10"':''; ?>><a href="<?php echo site_url('manage/yinjian') ?>" class="item10">引荐人计划</a></li><?php endif ?>
+        <?php if($this->privilege->judge('phone400')): ?><li <?php echo $this->uri->segment(2) == 'phone400'?'class="on11"':''; ?>><a href="<?php echo site_url('manage/phone400') ?>" class="item11">400通话记录</a></li><?php endif ?>
+        <?php if($this->privilege->judge('coupon')): ?><li <?php echo $this->uri->segment(2) == 'coupon'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/coupon') ?>" class="item12">优惠信息</a></li><?php endif ?>
+        <?php if($this->privilege->judge('setting')): ?><li <?php echo $this->uri->segment(2) == 'setting'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/setting') ?>" class="item12">网站配置</a></li><?php endif ?>
+        <?php if($this->privilege->judge('article')): ?><li <?php echo $this->uri->segment(2) == 'article'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/article') ?>" class="item12">文章管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('apple')): ?><li <?php echo $this->uri->segment(2) == 'apple'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/apple') ?>" class="item12">苹果app端广告管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('banner')): ?><li <?php echo $this->uri->segment(2) == 'banner'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/banner') ?>" class="item12">Banner管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('thematic')): ?><li <?php echo $this->uri->segment(2) == 'thematic'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/thematic') ?>" class="item12">专题管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('dataManagement')): ?><li <?php echo $this->uri->segment(2) == 'dataManagement'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/dataManagement') ?>" class="item12">数据管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('fanli')): ?><li <?php echo $this->uri->segment(2) == 'fanli'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/fanli') ?>" class="item12">消费记录</a></li><?php endif ?>
+        <?php if($this->privilege->judge('app')): ?><li <?php echo $this->uri->segment(2) == 'app'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/app') ?>" class="item12">APP管理</a></li><?php endif ?>
+        <?php if($this->privilege->judge('tixian')): ?><li <?php echo $this->uri->segment(2) == 'tixian'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/tixian') ?>" class="item12">提现记录</a></li><?php endif ?>
+        <?php if($this->privilege->judge('spider')): ?><li <?php echo $this->uri->segment(2) == 'spider'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/spider') ?>" class="item12">数据抓取</a></li><?php endif ?>
+        <?php if($this->privilege->judge('recomAPP')): ?><li <?php echo $this->uri->segment(2) == 'recomAPP'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/recomAPP') ?>" class="item12">应用推荐</a></li><?php endif ?>
+        <?php if($this->privilege->judge('category')): ?><li <?php echo $this->uri->segment(2) == 'category'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/category') ?>" class="item12">项目类别</a></li><?php endif ?>
+        <?php if($this->privilege->judge('appPush')): ?><li <?php echo $this->uri->segment(2) == 'appPush'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/appPush') ?>" class="item12">苹果推送</a></li><?php endif ?>
+        <?php if($this->privilege->judge('message')): ?><li <?php echo $this->uri->segment(2) == 'message'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/message') ?>" class="item12">站内信</a></li><?php endif ?>
+       <?php if($this->privilege->judge('priv')): ?> <li <?php echo $this->uri->segment(2) == 'priv'?'class="on12"':''; ?>><a href="<?php echo site_url('manage/priv') ?>" class="item12">权限设置</a></li><?php endif ?>
+        <li><a href="<?php echo site_url('manage/logout') ?>" class="item06">安全退出</a></li>
+    </ul>
+</div>

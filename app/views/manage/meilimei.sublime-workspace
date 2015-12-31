@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"stor",
+				"storageData"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"pr",
+				"privilege"
+			],
+			[
+				"ge",
+				"gender"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"pass",
+				"passwd"
+			],
+			[
+				"row",
+				"row_array"
+			],
+			[
+				"getUserInfo",
+				"getUserInfoById"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"tehui",
+				"tehui_id"
+			],
+			[
+				"o",
+				"order_no"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"last",
+				"last_query"
+			],
+			[
+				"un",
+				"unserialize"
+			],
+			[
+				"True",
+				"TRUE"
+			],
+			[
+				"fro",
+				"foreach	foreach …"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kingsley/Documents/develop/PHP",
+		"/Users/kingsley/Documents/develop/PHP/meilimei"
+	],
+	"file_history":
+	[
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/topic_comments.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/theme/jigou_add.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui_edit.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/paywap/alipayapi.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/tehuialipay/alipay.config.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/D7EC8FA0-93BD-4CBE-9D8C-E4FED77BAC77/alipay.config.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/leftbar.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/tehui.php",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/config/routes.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/application/controllers/BaseController.php",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/controllers/index.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/application/controllers/CommonUtility.php",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/.htaccess",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/core/MY_Controller.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/public/index.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/application/controllers/IndexController.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/application/controllers/LoginController.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/tehuiad.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/application/views/layouts/loginlayout.phtml",
+		"/Users/kingsley/Documents/develop/PHP/zte/application/Bootstrap.php",
+		"/Users/kingsley/Documents/develop/PHP/zte/public/i.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/7D4220FA-7BFB-417F-97DB-D058E2ED6D82/database.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/articlebak.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/FD88124B-0F6C-4BA6-A0F1-4DECED4CF178/tehuievent.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/4C440BBE-444C-4724-A468-0CF2A1FC197D/manage_team_edit.html",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/controllers/user.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/.htaccess",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/config/config.php",
+		"/Users/kingsley/Documents/develop/PHP/tehui/app.php",
+		"/Users/kingsley/Downloads/光博士/光02.html",
+		"/Users/kingsley/Downloads/光博士/光01.html",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/user/editpasswd.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/user/perfectinfo.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/user/profile.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/models/model_user.php",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/public/head.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/public/left.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/public/breadcrumb.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/editpasswd.tpl",
+		"/Users/kingsley/Desktop/winace 模板",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/login.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/untitled",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/index.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/public/script.tpl",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates_c/07e794038053fae76de3fbcfb7740c67a4e182db.file.profile.tpl.php",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/public/style.css",
+		"/Users/kingsley/Documents/develop/PHP/mlm_crm/application/views/templates/profile.tpl",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/libraries/sms.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/libraries/soap/soap_client.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/fanli.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/2F72004A-BB73-4C6E-81D8-8CD05DD2630E/tehui.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/47C4966C-ADDE-4AB8-A399-48DAB3EAEC43/passwd",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/topic.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/E82DA071-CB5E-4538-B743-25285E0F359E/config.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/8BFFCC35-E4FC-49FE-A6B8-E75D5BB0659F/gbos.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/editmeilibao.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/menu.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui_edit_note.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui_item.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/918D8711-091A-4AF5-9D12-66CF20F09CCC/tools.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/libraries/tools.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/event.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/96F28E8F-E493-4947-A0B2-A717AFC5D2B8/event.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/24535907-17C6-4D4B-AAD0-62C2E7CA8E94/diary.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/A9A27D44-1FA4-4A6F-81A1-FB434F531C7C/diary_model.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/m/application/errors/error_php.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/sites/wp-includes/class-phpmailer.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/sites/wp-includes/class-phpass.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/errors/error_php.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/oldpublic/public/images/phpwtw.png20130902",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/phpqrcode/phpqrcode.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/phpqrcode/cache/frame_1.dat",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/editor/php/file_manager_json.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/wenCore/helpers/path_helper.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/sites/wp-includes/formatting.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/information.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/theme/information.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/editor/plugins/quickformat/quickformat.js",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/wenCore/libraries/Form_validation.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/m/system/libraries/Form_validation.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/m/user_guide/libraries/form_validation.html",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/wenCore/language/english/form_validation_lang.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/m/system/language/english/form_validation_lang.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/sites/wp-content/themes/twentytwelve/page-templates/front-page.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/sites/wp-includes/feed-rdf.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/libraries/filter.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/chongzhi.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/70CCCD92-0489-49AE-8488-5E5DD7469F38/items.php",
+		"/Users/kingsley/Library/Caches/Cleanup At Startup/Transmit/30107CCC-BC1E-4108-80AD-D7E3F4472F21/logincode.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/tehuialipay/return_url.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/tehuialipay/lib/alipay_submit.class.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/tehuialipay/lib/alipay_rsa.function.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/tehui_alipay/return_url.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/allipay/cacert.pem",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/test.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/tehui_alipay/alipay.config.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/addimg.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui_add.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehuiad_update",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/updateview.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/users.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui_edit_mechanism.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/tehui.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/yiyuanevent.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/MyController.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/yiyuanevent_edit_physician.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/user.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/index.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/meili.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/webapi/tehui.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/index.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/yiyuanevent.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/tehui_add",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/.htaccess",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/models/auth.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/yiyuantehui.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/config/routes.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/nocap.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/mlmnocap.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/nearby.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/v2/auth.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/meili.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/account/user.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/manage/dataManagement.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage/default.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/app/controllers/banner.php",
+		"/Users/kingsley/Documents/develop/PHP/meilimei/m/index.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kingsley/Documents/develop/PHP/meilimei",
+			"/Users/kingsley/Documents/develop/PHP/tehui",
+			"/Users/kingsley/Documents/develop/PHP/meilimei/app/views/manage",
+			"/Users/kingsley/Documents/develop/PHP/meilimei",
+			"/Users/kingsley/Documents/develop/PHP/meilimei/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"judge",
+			"Utility",
+			"Option",
+			"$allcities",
+			">\n",
+			"常规选项",
+			"常规",
+			"avatar",
+			"'}\n",
+			"btn-scroll-up",
+			" Choose Skin",
+			"submenu",
+			"noti",
+			"no't",
+			"teihui",
+			"city",
+			"detail",
+			"buildRequestPara",
+			"AlipaySubmit",
+			"buildRequestMysign",
+			"print",
+			"login(",
+			"login",
+			"ge't'sa'c'le",
+			"user/login",
+			"Sal",
+			"Sale",
+			"ck",
+			"log",
+			"get_flashdata",
+			"set_flashdata",
+			"();",
+			"?>\n",
+			"province",
+			">\n",
+			"?>\n",
+			"picmr",
+			"$city",
+			"city",
+			"phone",
+			"view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "meilimei.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
